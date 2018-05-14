@@ -1,0 +1,14 @@
+{
+  "name": "assembled",
+  "version": "1.0.0",
+  "description": "A toy assembly-like language",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Adam Cook",
+  "license": "MIT",
+  "dependencies": {
+    "npm": "^6.0.1"
+  }
+}
